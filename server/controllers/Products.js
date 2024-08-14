@@ -1,4 +1,4 @@
-import mongoose from "mongoose";
+ import mongoose from "mongoose";
 import Products from "../models/Products.js";
 import { createError } from "../error.js";
 
